@@ -2,7 +2,8 @@
     <main class="contact-me-section">
         <h3>Contact me</h3>
         <div class="card">
-            <h4>Ethanscheys@gmail.com</h4>
+            <h4>Email: <a href="https://mail.google.com/mail/u/0/?fs=1&to=ethanscheys@gmail.com&su=Subject&body=Body&tf=cm"
+                    target="_blank">ethanscheys@gmail.com</a></h4>
         </div>
     </main>
 </template>
@@ -22,11 +23,11 @@
 }
 
 .card {
-    background-color: darkred;
-    padding: 7px 50px;
+    background-color: #2D2A2A;
+    padding: 0px 50px;
 }
 
 .card h4 {
-    background-color: darkred;
+    background-color: #2D2A2A;
 }
 </style>

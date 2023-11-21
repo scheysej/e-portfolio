@@ -4,12 +4,11 @@
       <div>
         <h2 class="name-header">ETHAN SCHEYS </h2>
         <!-- or Ethan_scheys -->
-        <h3 class="blurb">Hello There, welcome to my E-portfolio! Here you can find information about me, my class
+        <h3 class="blurb">Hello there, welcome to my E-portfolio! Here you can find information about me, my class
           projects, my resume,
-          and a way to contact me if you have any questions</h3>
+          and a way to contact me if you have any questions.</h3>
       </div>
-      <img src="https://framerusercontent.com/images/aAXd6aC7JLDyT28Iojp5F5knIw.png" alt="Ethan's beautiful face <3"
-        class="main-image">
+      <img src="public/00388-4200796215.png" alt="Ethan's beautiful face <3" class="main-image">
     </section>
     <section class="stats-section">
       <h3 class="statistics-text">Statistics</h3>

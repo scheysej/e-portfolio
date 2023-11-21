@@ -1,20 +1,20 @@
 <template>
     <nav class="navbar">
         <router-link to="/about-me">
-            <h3 class="red">About me</h3>
+            <h3 class="white">About me</h3>
         </router-link>
         <router-link to="/portfolio">
-            <h3 class="red">Portfolio</h3>
+            <h3 class="white">Portfolio</h3>
         </router-link>
         <router-link to="/">
             <Logo></Logo>
         </router-link>
         <!-- Pdf can be put in public folder -->
-        <a target="_blank" href="/sample.pdf">
-            <h3 class="green">Resume</h3>
+        <a target="_blank" href="public/2023_EthanScheys_CV - Copy.pdf">
+            <h3 class="white">Resume</h3>
         </a>
         <router-link to="/contact-me">
-            <h3 class="green">Contact</h3>
+            <h3 class="white">Contact</h3>
         </router-link>
     </nav>
 </template>
@@ -35,22 +35,22 @@ import Logo from './Logo.vue';
         /* uncomment 23 and 24 tho */
 }
 
-.red {
-    color: red;
+.white {
+    color: rgb(255, 255, 255);
 }
 
-.red:hover {
+.white:hover {
     text-decoration: underline;
-    text-decoration-color: red
+    text-decoration-color: rgb(255, 255, 255)
 }
 
-.green {
-    color: #22ff00
+.gray {
+    color: #2D2A2A
 }
 
-.green:hover {
+.gray:hover {
     text-decoration: underline;
-    text-decoration-color: #22ff00
+    text-decoration-color: #2D2A2A
 }
 
 h3 {

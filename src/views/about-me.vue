@@ -3,22 +3,21 @@
         <section class="about-me-section">
             <div class="about-me">
                 <h3>About me</h3>
-                <h4 class="about-me-description"> am currently a student at the University
-                    of Detroit Mercy, studying Computer Science.
-                    I have a passion for backend development
-                    and exploring the world of research. I have
-                    worked as a software engineering intern and
-                    a Michigan Sea Grant intern. I aspire to one
-                    day be a computer science professor, sharing
-                    my passion with the generations to come.
+                <h4 class="about-me-description">
+                    I am currently a computer
+                    science major and cyber security minor at the
+                    University of Detroit Mercy. Although I am still
+                    searching for my niche, I have found I enjoy
+                    backend development as well as research with an
+                    intent to go into teaching.
 
+
+                </h4>
+                <h4 class="about-me-description">
                     In my personal time I enjoy gaming with friends
                     and bettering my cyber security skills. Some of
                     my favorite games are ones that challenge me
-                    to think creatively and out of the box. Online I
-                    go by SithLizard, referencing my love for Star
-                    Wars and my bearded dragon named Dr.
-                    Pepper.
+                    to think creatively and out of the box.
                 </h4>
             </div>
             <div class="links">
