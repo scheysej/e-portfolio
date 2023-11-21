@@ -8,7 +8,7 @@
           projects, my resume,
           and a way to contact me if you have any questions.</h3>
       </div>
-      <img src="public/00388-4200796215.png" alt="Ethan's beautiful face <3" class="main-image">
+      <img src="/00388-4200796215.png" alt="Ethan's beautiful face <3" class="main-image">
     </section>
     <section class="stats-section">
       <h3 class="statistics-text">Statistics</h3>
