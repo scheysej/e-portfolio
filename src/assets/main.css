@@ -1,0 +1,15 @@
+* {
+  background-color: black;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 16px;
+}
+
+/* h3 {
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */
+
+/* linear-gradient(90deg, rgb(255, 0, 0) 0%, rgb(255, 110, 110) 66.0249%, rgb(0, 255, 81) 100%) */
