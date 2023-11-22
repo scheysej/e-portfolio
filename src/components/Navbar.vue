@@ -10,7 +10,7 @@
             <Logo></Logo>
         </router-link>
         <!-- Pdf can be put in public folder -->
-        <a target="_blank" href="public/2023_EthanScheys_CV - Copy.pdf">
+        <a target="_blank" href="/2023_EthanScheys_CV - Copy.pdf">
             <h3 class="white">Resume</h3>
         </a>
         <router-link to="/contact-me">
