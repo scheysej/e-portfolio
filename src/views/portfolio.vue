@@ -1,6 +1,6 @@
 <template>
     <main class="portfolio">
-        <h3>Portfolio goes here</h3>
+        <h3>Reimbursement Project, MISG Research, and Instruction Set?</h3>
     </main>
 </template>
 

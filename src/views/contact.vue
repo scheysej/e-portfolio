@@ -30,4 +30,8 @@
 .card h4 {
     background-color: #2D2A2A;
 }
+
+.card a {
+    background-color: #2D2A2A;
+}
 </style>

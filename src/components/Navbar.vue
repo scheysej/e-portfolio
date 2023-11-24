@@ -29,9 +29,12 @@ import Logo from './Logo.vue';
     align-items: center;
     height: 170px;
 
-    justify-content: center;
-    gap: 8%
-        /* justify-content: space-around; - if u want more spaced out*/
+    /* justify-content: center;
+    gap: 8% */
+    justify-content: space-around;
+
+    margin-right: 17px
+        /*- if u want more spaced out*/
         /* uncomment 23 and 24 tho */
 }
 
