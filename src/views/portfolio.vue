@@ -1,8 +1,8 @@
 <template>
     <main>
-        <u>
-            <h1 class="page-title">My Projects</h1>
-        </u>
+
+        <h1 class="page-title">My Projects</h1>
+
         <section class="portfolio-section">
             <div class="reimbursement">
                 <image src="/reimbursementPhoto.png" alt="The Login In Page" class="login-image"></image>
@@ -71,7 +71,8 @@
 .page-title {
     display: flex;
     justify-content: center;
-    font-size: 28px;
+    font-size: 40px;
+    font-family: 'Monoton', sans-serif;
 }
 
 .project-title {
