@@ -20,6 +20,7 @@
     font-size: 35px;
     font-weight: 500;
     margin-top: 80px;
+    font-family: 'Monoton', sans-serif;
 }
 
 .card {
