@@ -24,7 +24,7 @@
     </section>
 </template>
   
-<script>
+<script lang='ts' setup>
 import emailjs from '@emailjs/browser';
 
 export default {
@@ -50,8 +50,6 @@ export default {
         }
     }
 }
-
-
 </script>
 
 <style scoped>
