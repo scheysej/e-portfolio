@@ -37,6 +37,7 @@ export default {
     },
     methods: {
         sendEmail() {
+            //@ts-ignore
             emailjs.sendForm('service_co6d4n8', 'template_atqqmtn', this.$refs.form, 'YDNUrNvAgv7wcllkA')
                 .then((result) => {
                     alert("Message Sent!")
