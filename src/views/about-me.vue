@@ -9,7 +9,10 @@
                     University of Detroit Mercy. Although I am still
                     searching for my niche, I have found I enjoy
                     backend development as well as research with an
-                    intent to go into teaching.
+                    intent to go into teaching. My time in school has
+                    shown me that I enjoy helping other students grow
+                    in understanding and passion in the fields that I
+                    am fond of.
 
 
                 </h4>
@@ -17,7 +20,11 @@
                     In my personal time I enjoy gaming with friends
                     and bettering my cyber security skills. Some of
                     my favorite games are ones that challenge me
-                    to think creatively and out of the box.
+                    to think creatively and out of the box. I believe
+                    this to be one of the reasons that I enjoy backend
+                    development to the extent that I do, because I find
+                    I am constantly being challenged and put in positions
+                    that encourage problem solving in creative ways.
                 </h4>
             </div>
             <div class="links">
