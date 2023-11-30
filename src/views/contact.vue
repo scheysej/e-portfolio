@@ -24,7 +24,7 @@
     </section>
 </template>
   
-<script lang='ts' setup>
+<script lang='js' setup>
 import emailjs from '@emailjs/browser';
 
 export default {
