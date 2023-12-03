@@ -33,8 +33,11 @@
                 <h4 class="seagrant-desc">
                     I had the privelage of being awarded
                     a Michigan Sea Grant, where I worked on Using Google Earth
-                    Enginer to Evaluate How Urban Forests in Detroit Impact the
-                    Distribution and Movement of Water.
+                    Engine to Evaluate How Urban Forests in Detroit Impact the
+                    Distribution and Movement of Water. I used the satellite imagery
+                    visualization to run virtual transects to gather data. I then
+                    plugged the data into Excel to run correlation tests and further
+                    understand the data that was extracted.
                     <br><br>
                     This project provided me with the opportunity to conduct my own
                     research over the summer and gave me valuable experience in data
