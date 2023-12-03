@@ -38,7 +38,7 @@ export default {
     methods: {
         sendEmail() {
             //@ts-ignore
-            emailjs.sendForm('service_co6d4n8', 'template_atqqmtn', this.$refs.form, 'YDNUrNvAgv7wcllkA')
+            emailjs.sendForm(import.meta.env.VITE_EMAIL_JS_SERVICE_ID, 'template_atqqmtn', this.$refs.form, 'YDNUrNvAgv7wcllkA')
                 .then((result) => {
                     alert("Message Sent!")
                     console.log('SUCCESS!', result.text);
