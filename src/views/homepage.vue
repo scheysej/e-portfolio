@@ -9,7 +9,7 @@
           projects, my resume,
           and a way to contact me if you have any questions.
           <div class="gif-container">
-            <img class="gif-image" src="hello-there-general-kenobi.gif" alt="General Kenobi">
+            <img class="gif-image" src="/hello-there-general-kenobi.gif" alt="General Kenobi">
           </div>
         </h3>
       </div>
