@@ -4,9 +4,14 @@
       <div>
         <h2 class="name-header">ETHAN SCHEYS </h2>
         <!-- or Ethan_scheys -->
-        <h3 class="blurb">Hello there, welcome to my E-portfolio! Here you can find information about me, my class
+        <h3 class="blurb"><span class="kenobi">Hello there</span>, welcome to my E-portfolio! Here you can find
+          information about me, my class
           projects, my resume,
-          and a way to contact me if you have any questions.</h3>
+          and a way to contact me if you have any questions.
+          <div class="gif-container">
+            <img class="gif-image" src="hello-there-general-kenobi.gif" alt="General Kenobi">
+          </div>
+        </h3>
       </div>
       <img src="/00388-4200796215.png" alt="Ethan's beautiful face <3" class="main-image">
     </section>
@@ -47,6 +52,20 @@
 .blurb {
   width: 600px;
   line-height: 30px;
+}
+
+.blurb:hover .kenobi {
+  cursor: pointer;
+}
+
+.gif-container {
+  display: none;
+  position: absolute;
+}
+
+.kenobi:hover+.gif-container,
+.gif-container:hover {
+  display: block;
 }
 
 .main-image {
